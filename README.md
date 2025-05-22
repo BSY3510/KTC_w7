@@ -1,2 +1,5 @@
-# KTC_w7
-git/github 사용법3
+# Hello, I'm David!
+- 🔭 I’m currently working on University
+- 🌱 I’m currently learning CS
+- 💬 Ask me about AI/Data Engineering
+- 📫 How to reach me: ~
